@@ -3,3 +3,23 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: rgb(51, 51, 51);
+}
+
+.navbar{
+    background-color: cadetblue;
+    height: 90px;
+    width: 100%;
+}
+
+.navbar ul{
+    margin-left: 150px;
+    padding-top: 30px;
+    list-style: none;
+}
+
+.navbar li{
+    display: inline;
+    padding-left: 50px;
+}
