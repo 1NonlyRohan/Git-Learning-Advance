@@ -23,3 +23,16 @@ body{
     display: inline;
     padding-left: 50px;
 }
+
+.foot{
+    margin: 450px 0px;
+    background-color: black;
+}
+
+.foot p{
+    color: white;
+    padding: 40px;
+    font-size: 30px;
+    font-family: josefin sans;
+    text-align: center;
+}
